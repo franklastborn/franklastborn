@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Shadow AI<br>🎯 Goals: Help the world through code.<br>🎲 Fun fact: I sleep during the day.</p>
 
 ###
 
