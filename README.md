@@ -38,6 +38,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
+
+TypeScript   6 hrs 52 mins   █████████████████▒░░░░░░░   69.68 %
+JavaScript   2 hrs 23 mins   ██████░░░░░░░░░░░░░░░░░░░   24.25 %
+JSON         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+
 ###
 
 
